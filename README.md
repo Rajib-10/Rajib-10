@@ -31,17 +31,24 @@ I'm Md.Atiqul Islam Rajib. I'm a frontend developer with a strong foundation in 
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-atiqul-islam-rajib-013a92298/)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibahamed6060@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-atiqul-islam-rajib-013a92298/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rajibahamed6060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ### Summary Cards:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajib-10&theme=shades_of_purple)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajib-10&theme=shades_of_purple)
+<p align="center" style="display: flex; gap: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajib-10&theme=shades_of_purple" alt="Repos per Language" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajib-10&theme=shades_of_purple" alt="Most Commit Language" width="400"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajib-10&theme=shades_of_purple)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajib-10&theme=shades_of_purple)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajib-10&theme=shades_of_purple&utcOffset=8)
+<p align="center" style="display: flex; gap: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajib-10&theme=shades_of_purple" alt="Stats" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajib-10&theme=shades_of_purple&utcOffset=8" alt="Productive Time" width="400"/>
+</p>
