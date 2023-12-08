@@ -43,7 +43,10 @@ I'm Md.Atiqul Islam Rajib. I'm a frontend developer with a strong foundation in 
 
 ### Summary Cards:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajib-10&theme=shades_of_purple)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajib-10&theme=shades_of_purple" alt="Profile Details" />
+</p>
+
 
 <p align="center" style="display: flex; gap: 40px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajib-10&theme=shades_of_purple" alt="Repos per Language" width="400"/>
