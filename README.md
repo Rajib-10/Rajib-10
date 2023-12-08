@@ -23,7 +23,11 @@ I'm Md.Atiqul Islam Rajib. I'm a frontend developer with a strong foundation in 
 </p>
 
 ### Current Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rajib-10&theme=shadow-purple)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajib-10&theme=shadow-purple" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## Get in Touch
 
