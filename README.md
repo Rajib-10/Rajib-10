@@ -1,4 +1,4 @@
-![Your Banner](https://github.com/Rajib-10/Rajib-10/raw/main/banner1.png)
+[![Your Banner](https://github.com/Rajib-10/Rajib-10/raw/main/banner1.png)](https://www.linkedin.com/in/md-atiqul-islam-rajib-013a92298/)
 
 
 ### Current Overview :
